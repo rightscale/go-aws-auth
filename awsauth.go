@@ -205,6 +205,7 @@ var (
 		"es":                   4,
 		"glacier":              4,
 		"kinesis":              4,
+		"kms":                  4,
 		"redshift":             4,
 		"rds":                  4,
 		"sdb":                  2,
